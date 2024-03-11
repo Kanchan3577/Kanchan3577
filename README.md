@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kanchan Mengune  
 - 👀 I’m interested in Web development 
-- 🌱 I’m currently learning (CSE) B.Tech.
+- 🌱 I’m a Computer Engineer (2023 passout).
 - 📫 How to reach me through LinkedIn 
 
 <!---
